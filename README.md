@@ -7,7 +7,7 @@ It is designed for **data-driven decision-making**, helping businesses identify 
 ---
 
 ## 📸 Dashboard Preview  
-![Sales Dashboard](dashboard.png)  
+![Sales Dashboard](assets/dashboard.png)  
 
 ---
 
