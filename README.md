@@ -1,7 +1,13 @@
 # 📊 Power BI Sales Dashboard  
 
 ## 🚀 Project Overview  
-This **Power BI Sales Dashboard** provides key insights into sales performance, profitability, customer trends, product category performance, and payment mode analysis. The dashboard is designed for **data-driven decision-making** and helps businesses identify revenue growth opportunities.  
+This **Power BI Sales Dashboard** provides key insights into sales performance, profitability, customer trends, product category performance, and payment mode analysis.  
+It is designed for **data-driven decision-making**, helping businesses identify **revenue growth opportunities** and optimize sales strategies.  
+
+---
+
+## 📸 Dashboard Preview  
+![Sales Dashboard](dashboard.png)  
 
 ---
 
@@ -26,7 +32,7 @@ The dashboard tracks **critical business metrics**, including:
 ✅ **Total Sales Revenue** (`SUM(Amount)`)  
 ✅ **Total Profit** (`SUM(Profit)`)  
 ✅ **Total Quantity Sold** (`SUM(Quantity)`)  
-✅ **Average Order Value (AOV) = Total Sales / Total Orders`  
+✅ **Average Order Value (AOV) = Total Sales / Total Orders`**  
 
 ---
 
@@ -52,19 +58,18 @@ The dashboard tracks **critical business metrics**, including:
 
 ---
 
+## 🎯 Skills Demonstrated  
+This project showcases **practical expertise** in:  
+✔️ **Data Modeling** – Structuring relationships between tables  
+✔️ **SQL Queries** – Extracting insights from raw data  
+✔️ **DAX Calculations** – Creating key metrics like AOV  
+✔️ **Power BI Dashboarding** – Designing interactive reports  
+
+---
+
 ## 📩 Contact & Portfolio  
-👩‍💻 **Seema**  
+👩‍💻 **seema**  
 📧 Email: seemabn28.email@example.com  
-🔗 LinkedIn: https://www.linkedin.com/in/seema-devops/
+🔗 LinkedIn: https://www.linkedin.com/in/seema-devops/  
 
----
 
-## 📜 License  
-This project is open-source and available under the **MIT License**.  
-
----
-
-### 🚀 **Want to see the full dashboard?**  
-📌 Check out the **Power BI `.pbix` file** in the repository!  
-
- 
